@@ -14,7 +14,7 @@
  }
  const penc1=new pencil("marker","3$","blue");
  console.log(penc1);
- penc1.showPrice();
+ penc1.showPrice();//price of pen is 3$
 
 
  class pen3
